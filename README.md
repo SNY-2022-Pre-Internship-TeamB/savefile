@@ -1,5 +1,5 @@
 # savefile
-encoding UTF-8
-result original file
-result2 DB all file
+encoding UTF-8.
 
+result original file,
+result2 DB all file
