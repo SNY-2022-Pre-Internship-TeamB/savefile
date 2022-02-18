@@ -6,6 +6,8 @@ result2 DB all file.
 
 mongoimport --db SNdb --collection resultAll --type csv --headerline --file result2.csv
 
+cd 
+
 mongoimport --db SNdb --collection result_d --type csv --headerline --file result_d.csv
 
 mongoimport --db SNdb --collection result_f --type csv --headerline --file result_f.csv
