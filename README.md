@@ -10,6 +10,6 @@ mongoimport --db SNdb --collection result_d --type csv --headerline --file resul
 
 mongoimport --db SNdb --collection result_f --type csv --headerline --file result_f.csv
 
-mongoimport --db SNdb --collection result_l --type csv --headerline --file result_l.cs
+mongoimport --db SNdb --collection result_l --type csv --headerline --file result_l.csv
 
 
